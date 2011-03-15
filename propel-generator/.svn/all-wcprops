@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/2189/branches/1.5/generator
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/2145/branches/1.5/generator/default.properties
+END
+build.xml-local
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1506/branches/1.5/generator/build.xml-local
+END
+build.properties-sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2166/branches/1.5/generator/build.properties-sample
+END
+build-propel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1649/branches/1.5/generator/build-propel.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1649/branches/1.5/generator/build.xml
+END

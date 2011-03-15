@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/mssql
+END
+MssqlDDLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/mssql/MssqlDDLBuilder.php
+END
+MssqlDataSQLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/mssql/MssqlDataSQLBuilder.php
+END

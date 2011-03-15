@@ -1,0 +1,98 @@
+10
+
+dir
+2232
+http://svn.propelorm.org/branches/1.5/runtime/lib
+http://svn.propelorm.org
+
+
+
+2011-02-09T15:37:18.739090Z
+2190
+KRavEN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4126deef-30f4-0310-a2a2-883dd235dc3b
+
+connection
+dir
+
+logger
+dir
+
+adapter
+dir
+
+formatter
+dir
+
+config
+dir
+
+query
+dir
+
+validator
+dir
+
+Propel.php
+file
+
+
+
+
+2011-03-15T23:45:01.000000Z
+8eeb6b55ae59b1e9bf837e4928e990f2
+2011-01-12T20:32:21.853848Z
+2145
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29407
+
+collection
+dir
+
+om
+dir
+
+map
+dir
+
+util
+dir
+
+exception
+dir
+
