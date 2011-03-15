@@ -6,4 +6,4 @@ It consitst of copies of the 1.5 and 1.6 propel versions from the official SVN r
 
 The intention of these repos is to use them as a git submodule in your project, so you do not need svn.
 
-INSTRUCTIONS FOLLOW AS SOON AS IT WORKS
+On Master branch, there might be no files - specifically checkout branch 1.5 or 1.6
