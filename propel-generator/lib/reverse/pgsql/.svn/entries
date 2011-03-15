@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/reverse/pgsql
+http://svn.propelorm.org/branches/1.6/generator/lib/reverse/pgsql
 http://svn.propelorm.org
 
 
 
-2010-09-01T20:35:36.053130Z
-1928
+2011-03-14T08:20:47.928892Z
+2227
 francois
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-b6ad2d41ac3aad80dc814347a42e722c
-2010-09-01T20:35:36.053130Z
-1928
+2011-03-15T23:45:17.000000Z
+c6b6b994792b2ba5ebe10d7265db4283
+2011-03-14T08:20:47.928892Z
+2227
 francois
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-18046
+18670
 

@@ -2,7 +2,7 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/behavior/concrete_inheritance
+http://svn.propelorm.org/branches/1.6/generator/lib/behavior/concrete_inheritance
 http://svn.propelorm.org
 
 
@@ -32,8 +32,8 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-2f780b8b8aade36360d9b99adb8d51d1
+2011-03-15T23:45:16.000000Z
+fcdf277878b365a9d02f402b93ffecbc
 2011-01-21T13:51:20.018509Z
 2171
 francois
@@ -58,7 +58,7 @@ has-props
 
 
 
-7168
+7305
 
 ConcreteInheritanceParentBehavior.php
 file
@@ -66,7 +66,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 9f528845f4e7e859d65b1d564810daf4
 2010-12-02T23:11:06.361517Z
 2068

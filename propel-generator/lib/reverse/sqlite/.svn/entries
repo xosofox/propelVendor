@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/reverse/sqlite
+http://svn.propelorm.org/branches/1.6/generator/lib/reverse/sqlite
 http://svn.propelorm.org
 
 
 
-2010-03-16T22:56:21.953825Z
-1612
+2010-10-11T17:14:19.654259Z
+2008
 francois
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-e23c5920f73039fda2297479aceb472e
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:17.000000Z
+bc99c6d5403547f29ce7cb74f8810489
+2010-10-11T17:14:19.654259Z
+2008
 francois
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-5241
+5319
 

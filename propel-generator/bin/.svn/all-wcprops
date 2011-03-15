@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/!svn/ver/1742/branches/1.5/generator/bin
+/!svn/ver/1814/branches/1.6/generator/bin
 END
 propel-gen
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/!svn/ver/1433/branches/1.5/generator/bin/propel-gen
+/!svn/ver/1814/branches/1.6/generator/bin/propel-gen
 END
 propel-gen.bat
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/1742/branches/1.5/generator/bin/propel-gen.bat
+/!svn/ver/1814/branches/1.6/generator/bin/propel-gen.bat
 END

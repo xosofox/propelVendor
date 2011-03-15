@@ -2,14 +2,14 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/reverse/oracle
+http://svn.propelorm.org/branches/1.6/generator/lib/reverse/oracle
 http://svn.propelorm.org
 
 
 
-2010-08-20T08:18:44.690364Z
-1918
-ddalmais
+2011-01-20T15:07:57.322313Z
+2168
+francois
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-d57edd7c42b460f9f2edf44a35bb7a55
-2010-08-20T08:18:44.690364Z
-1918
-ddalmais
+2011-03-15T23:45:17.000000Z
+3fbaeb6b848342f93550e77ef1738f42
+2011-01-20T15:07:57.322313Z
+2168
+francois
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-8403
+8640
 

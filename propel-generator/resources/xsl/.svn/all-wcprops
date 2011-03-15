@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/!svn/ver/1273/branches/1.5/generator/resources/xsl
+/!svn/ver/2155/branches/1.6/generator/resources/xsl
+END
+dbd2propel.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/2155/branches/1.6/generator/resources/xsl/dbd2propel.xsl
 END
 database.xsl
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/1273/branches/1.5/generator/resources/xsl/database.xsl
+/!svn/ver/1814/branches/1.6/generator/resources/xsl/database.xsl
 END

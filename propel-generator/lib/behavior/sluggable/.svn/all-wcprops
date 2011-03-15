@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/2039/branches/1.5/generator/lib/behavior/sluggable
+/!svn/ver/2090/branches/1.6/generator/lib/behavior/sluggable
 END
 SluggableBehavior.php
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/!svn/ver/2039/branches/1.5/generator/lib/behavior/sluggable/SluggableBehavior.php
+/!svn/ver/2090/branches/1.6/generator/lib/behavior/sluggable/SluggableBehavior.php
 END

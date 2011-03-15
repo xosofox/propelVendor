@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/!svn/ver/1612/branches/1.5/runtime/lib/logger
+/!svn/ver/1814/branches/1.6/runtime/lib/logger
 END
 BasicLogger.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/1612/branches/1.5/runtime/lib/logger/BasicLogger.php
+/!svn/ver/1814/branches/1.6/runtime/lib/logger/BasicLogger.php
 END
 MojaviLogAdapter.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/!svn/ver/1612/branches/1.5/runtime/lib/logger/MojaviLogAdapter.php
+/!svn/ver/1814/branches/1.6/runtime/lib/logger/MojaviLogAdapter.php
 END

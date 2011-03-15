@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/task
+http://svn.propelorm.org/branches/1.6/generator/lib/task
 http://svn.propelorm.org
 
 
 
-2011-01-21T22:11:00.503218Z
-2175
+2011-03-03T08:36:06.542813Z
+2220
 francois
 
 
@@ -26,16 +26,16 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
-PropelDataDTDTask.php
+BasePropelMigrationTask.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-1ead385471d79a4fc02a5668cb9243e1
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:16.000000Z
+f892526743e651cbba4a923ca60e0596
+2010-10-07T14:36:47.227876Z
+2001
 francois
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1923
+2381
 
 PropelConvertConfTask.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-f323353c2c64f0d50e7e1ababa30e2a7
-2010-08-06T14:03:38.130769Z
-1876
+2011-03-15T23:45:16.000000Z
+c71c3c45b9fa93a23b162af93d2f0d3f
+2011-03-03T08:36:06.542813Z
+2220
 francois
 has-props
 
@@ -92,18 +92,18 @@ has-props
 
 
 
-12816
+13948
 
-PropelDataModelTemplateTask.php
+PropelSQLDiffTask.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-6b76e2f959bdf84eefde34d7310c1836
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:16.000000Z
+0c3411ecd8b7aa7b4df106f4f68d095c
+2011-01-21T22:11:00.503218Z
+2175
 francois
 has-props
 
@@ -126,7 +126,41 @@ has-props
 
 
 
-5932
+5674
+
+PropelMigrationTask.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+ef6e6f90ad89bbdbca13c24b9616e387
+2010-10-07T16:24:56.282953Z
+2002
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3202
 
 PropelDataSQLTask.php
 file
@@ -134,7 +168,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 a30b115fb2d7e2563c410c552c7f7b73
 2010-03-16T22:56:21.953825Z
 1612
@@ -168,7 +202,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 292da66f50b1ed24e0b664aa4876c6c3
 2010-03-16T22:56:21.953825Z
 1612
@@ -196,48 +230,14 @@ has-props
 
 3589
 
-PropelOMTask.php
-file
-
-
-
-
-2011-03-15T23:45:02.000000Z
-3cdd5ab6b08377458701920337857884
-2010-07-26T08:36:10.048326Z
-1848
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8537
-
 PropelSchemaReverseTask.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-9883fdb93b914f8fbcbfa5030d60bd62
+2011-03-15T23:45:16.000000Z
+4254545f24fc5a08b0873a51214ae590
 2011-01-21T22:11:00.503218Z
 2175
 francois
@@ -262,18 +262,18 @@ has-props
 
 
 
-13417
+13448
 
-AbstractPropelDataModelTask.php
+PropelMigrationStatusTask.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-319581a39aff30d0834596e0231a7e44
-2011-01-21T22:11:00.503218Z
-2175
+2011-03-15T23:45:16.000000Z
+452aa000d3553a13a5e466988416d62d
+2010-10-07T14:36:47.227876Z
+2001
 francois
 has-props
 
@@ -296,18 +296,18 @@ has-props
 
 
 
-16636
+3448
 
-PropelDataDumpTask.php
+PropelMigrationUpTask.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-80be6218d9c461633bd8bb805fbca98a
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:16.000000Z
+6c1b9edfce233683ce89dfcd3bc77f74
+2010-10-07T16:24:56.282953Z
+2002
 francois
 has-props
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-9437
+3242
 
 PropelSQLTask.php
 file
@@ -338,10 +338,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-c29db73a1d3dfb74be3dd98b012907e0
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:16.000000Z
+8e1f4f427d58dad06392976daa2a4714
+2010-09-27T20:10:45.933240Z
+1972
 francois
 has-props
 
@@ -364,7 +364,109 @@ has-props
 
 
 
-6651
+7706
+
+PropelDataDumpTask.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+0afac61cb722b27170f362b4b70c9c74
+2010-08-22T22:05:12.107537Z
+1919
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9355
+
+PropelOMTask.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+38801e8e7820dcd73c2249ca0d9486f9
+2010-09-29T12:33:15.303683Z
+1977
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8796
+
+AbstractPropelDataModelTask.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+b64a7e994fa0d0bc70d08a4717558c27
+2011-01-21T22:11:00.503218Z
+2175
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16225
 
 PropelSQLExec.php
 file
@@ -372,10 +474,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-904440118aef5cd57ba4034428648f5b
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:16.000000Z
+594d0f689bf4d3777cfc0badb86d35c7
+2010-09-30T21:14:08.638610Z
+1983
 francois
 has-props
 
@@ -398,5 +500,39 @@ has-props
 
 
 
-17349
+9874
+
+PropelMigrationDownTask.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+bdb4297eece3b6cd61aaebff0eda5c8e
+2010-10-07T16:24:56.282953Z
+2002
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3437
 

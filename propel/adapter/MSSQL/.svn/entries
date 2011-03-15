@@ -2,14 +2,14 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/runtime/lib/adapter/MSSQL
+http://svn.propelorm.org/branches/1.6/runtime/lib/adapter/MSSQL
 http://svn.propelorm.org
 
 
 
-2010-09-14T14:31:22.990473Z
-1953
-KRavEN
+2011-01-20T15:07:57.322313Z
+2168
+francois
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
+2011-03-15T23:45:14.000000Z
 3e3ca25d0b6783a65de0181db9fb45ce
 2010-03-16T22:56:21.953825Z
 1612
@@ -66,10 +66,10 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
-f67bcb4eb643907ce8815fc8897bc519
-2010-04-20T20:52:04.139221Z
-1697
+2011-03-15T23:45:14.000000Z
+bcfc17ba4994522d5166d77edc9ac770
+2011-01-20T15:07:57.322313Z
+2168
 francois
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-3338
+3332
 

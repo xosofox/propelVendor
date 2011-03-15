@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/!svn/ver/2189/branches/1.5/generator/lib/reverse
+/!svn/ver/2227/branches/1.6/generator/lib/reverse
 END
 SchemaParser.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/1612/branches/1.5/generator/lib/reverse/SchemaParser.php
+/!svn/ver/1982/branches/1.6/generator/lib/reverse/SchemaParser.php
 END
 BaseSchemaParser.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/!svn/ver/1612/branches/1.5/generator/lib/reverse/BaseSchemaParser.php
+/!svn/ver/2008/branches/1.6/generator/lib/reverse/BaseSchemaParser.php
 END

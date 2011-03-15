@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/behavior
+http://svn.propelorm.org/branches/1.6/generator/lib/behavior
 http://svn.propelorm.org
 
 
 
-2011-01-24T10:17:21.120461Z
-2181
+2011-03-15T13:02:50.283303Z
+2232
 francois
 
 
@@ -26,16 +26,19 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
+i18n
+dir
+
 AutoAddPkBehavior.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-fe706fa95dc81c0f52e6d90aa50e7fbd
-2010-05-07T10:04:16.505268Z
-1745
+2011-03-15T23:45:16.000000Z
+8b601ec8a53dc5e9832965130b1b4d1d
+2011-01-14T11:23:37.893240Z
+2153
 francois
 has-props
 
@@ -58,7 +61,7 @@ has-props
 
 
 
-1243
+1215
 
 aggregate_column
 dir
@@ -69,7 +72,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 ffb1e8f0647e7a5690b65c54d0910cbb
 2011-01-20T15:16:39.222814Z
 2169
@@ -103,6 +106,9 @@ dir
 query_cache
 dir
 
+versionable
+dir
+
 concrete_inheritance
 dir
 
@@ -115,7 +121,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 7c20380ce8a8df3c3625ea4de30cd6fe
 2010-03-16T22:56:21.953825Z
 1612
@@ -149,7 +155,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 f871d9f1996485852209f0af4eaaabc1
 2011-01-20T15:16:39.222814Z
 2169

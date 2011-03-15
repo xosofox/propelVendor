@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/resources/xsd
+http://svn.propelorm.org/branches/1.6/generator/resources/xsd
 http://svn.propelorm.org
 
 
 
-2010-05-31T15:30:39.665674Z
-1781
+2011-02-22T17:16:41.768705Z
+2207
 francois
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-30b3722d1d4d549f238f801ec9f9b2b9
-2010-05-31T15:30:39.665674Z
-1781
+2011-03-15T23:45:17.000000Z
+dbef1d15eb3e7a57d90fbb42ee345e8c
+2011-02-22T17:16:41.768705Z
+2207
 francois
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-34548
+36877
 
 custom_datatypes.xsd
 file
@@ -66,7 +66,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:17.000000Z
 25639f786bdb6f27e6d0b19291bbc386
 2005-10-06T14:51:36.000044Z
 224

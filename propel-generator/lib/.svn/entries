@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib
+http://svn.propelorm.org/branches/1.6/generator/lib
 http://svn.propelorm.org
 
 
 
-2011-02-06T22:30:52.020153Z
-2189
+2011-03-15T13:02:50.283303Z
+2232
 francois
 
 
@@ -45,6 +45,9 @@ builder
 dir
 
 reverse
+dir
+
+util
 dir
 
 exception

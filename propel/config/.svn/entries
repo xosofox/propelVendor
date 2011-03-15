@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/runtime/lib/config
+http://svn.propelorm.org/branches/1.6/runtime/lib/config
 http://svn.propelorm.org
 
 
 
-2010-03-16T22:56:21.953825Z
-1612
+2011-02-23T16:53:42.452253Z
+2210
 francois
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
-c094626f9aa3a14eb80019c20ca612a6
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:14.000000Z
+fcb899934d93c7aea6f3f946ab48a3d5
+2011-02-23T16:53:42.452253Z
+2210
 francois
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3673
+3875
 
 PropelConfigurationIterator.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
-fc3f9929848edb4b66fe1ac88b3a1093
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:14.000000Z
+e1126b9f8b45287449dacb3a535dc354
+2011-02-23T16:53:42.452253Z
+2210
 francois
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-2084
+2080
 

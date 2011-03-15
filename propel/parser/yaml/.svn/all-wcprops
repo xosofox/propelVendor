@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1859/branches/1.6/runtime/lib/parser/yaml
+END
+sfYamlInline.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1858/branches/1.6/runtime/lib/parser/yaml/sfYamlInline.php
+END
+sfYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1858/branches/1.6/runtime/lib/parser/yaml/sfYaml.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1858/branches/1.6/runtime/lib/parser/yaml/LICENSE
+END
+sfYamlDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1858/branches/1.6/runtime/lib/parser/yaml/sfYamlDumper.php
+END
+sfYamlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1858/branches/1.6/runtime/lib/parser/yaml/sfYamlParser.php
+END

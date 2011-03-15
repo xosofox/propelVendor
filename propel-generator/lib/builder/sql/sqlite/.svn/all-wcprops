@@ -1,17 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/sqlite
-END
-SqliteDDLBuilder.php
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/sqlite/SqliteDDLBuilder.php
+/!svn/ver/1972/branches/1.6/generator/lib/builder/sql/sqlite
 END
 SqliteDataSQLBuilder.php
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/sqlite/SqliteDataSQLBuilder.php
+/!svn/ver/1814/branches/1.6/generator/lib/builder/sql/sqlite/SqliteDataSQLBuilder.php
 END

@@ -1,17 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/pgsql
-END
-PgsqlDDLBuilder.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/pgsql/PgsqlDDLBuilder.php
+/!svn/ver/1972/branches/1.6/generator/lib/builder/sql/pgsql
 END
 PgsqlDataSQLBuilder.php
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/!svn/ver/1612/branches/1.5/generator/lib/builder/sql/pgsql/PgsqlDataSQLBuilder.php
+/!svn/ver/1938/branches/1.6/generator/lib/builder/sql/pgsql/PgsqlDataSQLBuilder.php
 END

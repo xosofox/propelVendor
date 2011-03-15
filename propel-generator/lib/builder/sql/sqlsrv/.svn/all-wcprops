@@ -1,17 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/2135/branches/1.5/generator/lib/builder/sql/sqlsrv
+/!svn/ver/2135/branches/1.6/generator/lib/builder/sql/sqlsrv
 END
 SqlsrvDataSQLBuilder.php
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/!svn/ver/2135/branches/1.5/generator/lib/builder/sql/sqlsrv/SqlsrvDataSQLBuilder.php
-END
-SqlsrvDDLBuilder.php
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/!svn/ver/1944/branches/1.5/generator/lib/builder/sql/sqlsrv/SqlsrvDDLBuilder.php
+/!svn/ver/2135/branches/1.6/generator/lib/builder/sql/sqlsrv/SqlsrvDataSQLBuilder.php
 END

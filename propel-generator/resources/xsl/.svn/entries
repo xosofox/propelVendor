@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/resources/xsl
+http://svn.propelorm.org/branches/1.6/generator/resources/xsl
 http://svn.propelorm.org
 
 
 
-2009-10-03T10:43:09.670601Z
-1190
+2011-01-14T15:33:50.065335Z
+2155
 francois
 
 
@@ -26,13 +26,47 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
+dbd2propel.xsl
+file
+
+
+
+
+2011-03-15T23:45:17.000000Z
+301a67d5cf5f63ec6839db23f01493a6
+2011-01-14T15:33:50.065335Z
+2155
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12408
+
 database.xsl
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:17.000000Z
 79b138612b64ead70fbf83b83c1d80a1
 2009-10-03T10:43:09.670601Z
 1190

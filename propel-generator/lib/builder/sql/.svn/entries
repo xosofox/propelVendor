@@ -2,7 +2,7 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/builder/sql
+http://svn.propelorm.org/branches/1.6/generator/lib/builder/sql
 http://svn.propelorm.org
 
 
@@ -29,40 +29,6 @@ KRavEN
 mssql
 dir
 
-DDLBuilder.php
-file
-
-
-
-
-2011-03-15T23:45:02.000000Z
-3b684767c8efd1398fe4e83aae928f20
-2010-03-16T22:56:21.953825Z
-1612
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4748
-
 sqlite
 dir
 
@@ -81,7 +47,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 9fe3ad7c5e3772855f342c4920651478
 2010-03-16T22:56:21.953825Z
 1612

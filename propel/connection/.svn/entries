@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/runtime/lib/connection
+http://svn.propelorm.org/branches/1.6/runtime/lib/connection
 http://svn.propelorm.org
 
 
 
-2010-07-20T22:00:14.880395Z
-1838
+2011-02-23T16:53:42.452253Z
+2210
 francois
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
+2011-03-15T23:45:14.000000Z
 ec87c3fc86d3e84e92e455db26a0a297
 2010-03-16T22:56:21.953825Z
 1612
@@ -66,10 +66,10 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
-44af223e5d2677d23d3e18a053c1799d
-2010-07-20T22:00:14.880395Z
-1838
+2011-03-15T23:45:14.000000Z
+df5cee50c846ae45474f66458fa87a24
+2011-01-20T15:07:57.322313Z
+2168
 francois
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-4924
+4922
 
 PropelPDO.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
-0d2de3433a36cecdc96af58253a2fe0b
-2010-06-14T12:48:59.624191Z
-1798
+2011-03-15T23:45:14.000000Z
+c04699cf0cb5818d55fa349abbf7ca12
+2011-02-23T16:53:42.452253Z
+2210
 francois
 has-props
 
@@ -126,5 +126,5 @@ has-props
 
 
 
-21248
+21683
 

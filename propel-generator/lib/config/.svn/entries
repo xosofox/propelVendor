@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/config
+http://svn.propelorm.org/branches/1.6/generator/lib/config
 http://svn.propelorm.org
 
 
 
-2010-03-16T22:56:21.953825Z
-1612
+2011-01-20T15:07:57.322313Z
+2168
 francois
 
 
@@ -26,16 +26,16 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
-GeneratorConfig.php
+QuickGeneratorConfig.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
-0e89c156b7c7e2b782512180c925aeec
-2010-03-16T22:56:21.953825Z
-1612
+2011-03-15T23:45:16.000000Z
+774731a3c15cb83058a406ff643ffade
+2011-01-20T15:07:57.322313Z
+2168
 francois
 has-props
 
@@ -58,5 +58,73 @@ has-props
 
 
 
-5963
+4229
+
+GeneratorConfig.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+70c2777f41b4d0ed5527e4dade7f9a00
+2011-01-20T15:07:57.322313Z
+2168
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9435
+
+GeneratorConfigInterface.php
+file
+
+
+
+
+2011-03-15T23:45:16.000000Z
+302db45e071f8c4d93f8f83977a0899e
+2010-12-16T15:06:07.646756Z
+2102
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1077
 

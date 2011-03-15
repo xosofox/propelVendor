@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/builder/sql/sqlite
+http://svn.propelorm.org/branches/1.6/generator/lib/builder/sql/sqlite
 http://svn.propelorm.org
 
 
 
-2010-03-16T22:56:21.953825Z
-1612
+2010-09-27T20:10:45.933240Z
+1972
 francois
 
 
@@ -26,47 +26,13 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
-SqliteDDLBuilder.php
-file
-
-
-
-
-2011-03-15T23:45:02.000000Z
-e3f062eae6aa1a5e46f0b4c9b5f21614
-2010-03-16T22:56:21.953825Z
-1612
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2654
-
 SqliteDataSQLBuilder.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 694737e0cd73ce92b38a06a9f26e988c
 2010-03-16T22:56:21.953825Z
 1612

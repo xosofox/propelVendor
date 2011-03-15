@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/!svn/ver/1781/branches/1.5/generator/resources/xsd
+/!svn/ver/2207/branches/1.6/generator/resources/xsd
 END
 database.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/1781/branches/1.5/generator/resources/xsd/database.xsd
+/!svn/ver/2207/branches/1.6/generator/resources/xsd/database.xsd
 END
 custom_datatypes.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/1273/branches/1.5/generator/resources/xsd/custom_datatypes.xsd
+/!svn/ver/1814/branches/1.6/generator/resources/xsd/custom_datatypes.xsd
 END

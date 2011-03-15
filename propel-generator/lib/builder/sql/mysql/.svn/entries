@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/builder/sql/mysql
+http://svn.propelorm.org/branches/1.6/generator/lib/builder/sql/mysql
 http://svn.propelorm.org
 
 
 
-2010-11-10T21:09:25.517715Z
-2032
+2010-09-27T20:10:45.933240Z
+1972
 francois
 
 
@@ -26,47 +26,13 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
-MysqlDDLBuilder.php
-file
-
-
-
-
-2011-03-15T23:45:02.000000Z
-cd81c1c52e4fc5ea22854145579e9b94
-2010-11-10T21:09:25.517715Z
-2032
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13220
-
 MysqlDataSQLBuilder.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:16.000000Z
 94b485578ea42b08432ba153350f98bf
 2010-03-16T22:56:21.953825Z
 1612

@@ -2,7 +2,7 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/bin
+http://svn.propelorm.org/branches/1.6/generator/bin
 http://svn.propelorm.org
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:17.000000Z
 7e3c81d0833d584d99fac80f1ec2f626
 2010-01-11T09:29:55.571423Z
 1433
@@ -66,7 +66,7 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:17.000000Z
 27d1f0e53048d24e18e2ec5b4124e194
 2010-05-06T14:49:25.295866Z
 1742

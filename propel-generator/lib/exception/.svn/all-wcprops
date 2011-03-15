@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/!svn/ver/1612/branches/1.5/generator/lib/exception
+/!svn/ver/1960/branches/1.6/generator/lib/exception
+END
+SchemaException.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1960/branches/1.6/generator/lib/exception/SchemaException.php
 END
 EngineException.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/1612/branches/1.5/generator/lib/exception/EngineException.php
+/!svn/ver/1814/branches/1.6/generator/lib/exception/EngineException.php
 END

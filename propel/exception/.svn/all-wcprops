@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/!svn/ver/1612/branches/1.5/runtime/lib/exception
+/!svn/ver/2085/branches/1.6/runtime/lib/exception
 END
 PropelException.php
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/!svn/ver/1612/branches/1.5/runtime/lib/exception/PropelException.php
+/!svn/ver/2085/branches/1.6/runtime/lib/exception/PropelException.php
 END

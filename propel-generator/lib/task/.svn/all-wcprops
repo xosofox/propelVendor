@@ -1,71 +1,95 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/!svn/ver/2175/branches/1.5/generator/lib/task
+/!svn/ver/2220/branches/1.6/generator/lib/task
 END
-PropelDataDTDTask.php
+BasePropelMigrationTask.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelDataDTDTask.php
+V 74
+/!svn/ver/2001/branches/1.6/generator/lib/task/BasePropelMigrationTask.php
 END
 PropelConvertConfTask.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/1876/branches/1.5/generator/lib/task/PropelConvertConfTask.php
+/!svn/ver/2220/branches/1.6/generator/lib/task/PropelConvertConfTask.php
 END
-PropelDataModelTemplateTask.php
+PropelSQLDiffTask.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelDataModelTemplateTask.php
+V 68
+/!svn/ver/2175/branches/1.6/generator/lib/task/PropelSQLDiffTask.php
+END
+PropelMigrationTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/2002/branches/1.6/generator/lib/task/PropelMigrationTask.php
 END
 PropelDataSQLTask.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelDataSQLTask.php
+/!svn/ver/1814/branches/1.6/generator/lib/task/PropelDataSQLTask.php
 END
 PropelGraphvizTask.php
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelGraphvizTask.php
-END
-PropelOMTask.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/!svn/ver/1848/branches/1.5/generator/lib/task/PropelOMTask.php
+/!svn/ver/1814/branches/1.6/generator/lib/task/PropelGraphvizTask.php
 END
 PropelSchemaReverseTask.php
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/!svn/ver/2175/branches/1.5/generator/lib/task/PropelSchemaReverseTask.php
+/!svn/ver/2175/branches/1.6/generator/lib/task/PropelSchemaReverseTask.php
 END
-AbstractPropelDataModelTask.php
+PropelMigrationStatusTask.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/!svn/ver/2175/branches/1.5/generator/lib/task/AbstractPropelDataModelTask.php
+V 76
+/!svn/ver/2001/branches/1.6/generator/lib/task/PropelMigrationStatusTask.php
 END
-PropelDataDumpTask.php
+PropelMigrationUpTask.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelDataDumpTask.php
+V 72
+/!svn/ver/2002/branches/1.6/generator/lib/task/PropelMigrationUpTask.php
 END
 PropelSQLTask.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelSQLTask.php
+/!svn/ver/1972/branches/1.6/generator/lib/task/PropelSQLTask.php
+END
+PropelDataDumpTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1919/branches/1.6/generator/lib/task/PropelDataDumpTask.php
+END
+PropelOMTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1977/branches/1.6/generator/lib/task/PropelOMTask.php
+END
+AbstractPropelDataModelTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2175/branches/1.6/generator/lib/task/AbstractPropelDataModelTask.php
 END
 PropelSQLExec.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/1612/branches/1.5/generator/lib/task/PropelSQLExec.php
+/!svn/ver/1983/branches/1.6/generator/lib/task/PropelSQLExec.php
+END
+PropelMigrationDownTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2002/branches/1.6/generator/lib/task/PropelMigrationDownTask.php
 END

@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/!svn/ver/1953/branches/1.5/runtime/lib/adapter/MSSQL
+/!svn/ver/2168/branches/1.6/runtime/lib/adapter/MSSQL
 END
 MssqlDebugPDO.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/1612/branches/1.5/runtime/lib/adapter/MSSQL/MssqlDebugPDO.php
+/!svn/ver/1814/branches/1.6/runtime/lib/adapter/MSSQL/MssqlDebugPDO.php
 END
 MssqlPropelPDO.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/1697/branches/1.5/runtime/lib/adapter/MSSQL/MssqlPropelPDO.php
+/!svn/ver/2168/branches/1.6/runtime/lib/adapter/MSSQL/MssqlPropelPDO.php
 END

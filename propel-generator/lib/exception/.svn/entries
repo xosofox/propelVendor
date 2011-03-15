@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/exception
+http://svn.propelorm.org/branches/1.6/generator/lib/exception
 http://svn.propelorm.org
 
 
 
-2010-03-16T22:56:21.953825Z
-1612
+2010-09-20T15:08:56.085292Z
+1960
 francois
 
 
@@ -26,13 +26,47 @@ francois
 
 4126deef-30f4-0310-a2a2-883dd235dc3b
 
+SchemaException.php
+file
+
+
+
+
+2011-03-15T23:45:17.000000Z
+3a7fe9341bd079d2bdbb1e2e7557df33
+2010-09-20T15:08:56.085292Z
+1960
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+399
+
 EngineException.php
 file
 
 
 
 
-2011-03-15T23:45:02.000000Z
+2011-03-15T23:45:17.000000Z
 beab5cd88585a51fb768f57ab2e580d4
 2010-03-16T22:56:21.953825Z
 1612

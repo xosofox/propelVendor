@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/2135/branches/1.5/generator/lib/reverse/sqlsrv
+/!svn/ver/2135/branches/1.6/generator/lib/reverse/sqlsrv
 END
 SqlsrvSchemaParser.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/!svn/ver/2135/branches/1.5/generator/lib/reverse/sqlsrv/SqlsrvSchemaParser.php
+/!svn/ver/2135/branches/1.6/generator/lib/reverse/sqlsrv/SqlsrvSchemaParser.php
 END

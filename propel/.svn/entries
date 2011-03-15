@@ -2,14 +2,14 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/runtime/lib
+http://svn.propelorm.org/branches/1.6/runtime/lib
 http://svn.propelorm.org
 
 
 
-2011-02-09T15:37:18.739090Z
-2190
-KRavEN
+2011-03-14T09:27:37.305307Z
+2228
+francois
 
 
 
@@ -53,10 +53,10 @@ file
 
 
 
-2011-03-15T23:45:01.000000Z
-8eeb6b55ae59b1e9bf837e4928e990f2
-2011-01-12T20:32:21.853848Z
-2145
+2011-03-15T23:45:15.000000Z
+7098b749db933a3c9c6265a316ced6c3
+2011-03-11T21:10:34.344654Z
+2224
 francois
 has-props
 
@@ -79,12 +79,15 @@ has-props
 
 
 
-29407
+29689
 
 collection
 dir
 
 om
+dir
+
+parser
 dir
 
 map

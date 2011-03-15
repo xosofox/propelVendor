@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/2194/branches/1.6/generator/lib/model/diff
+END
+PropelForeignKeyComparator.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2194/branches/1.6/generator/lib/model/diff/PropelForeignKeyComparator.php
+END
+PropelDatabaseComparator.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2004/branches/1.6/generator/lib/model/diff/PropelDatabaseComparator.php
+END
+PropelDatabaseDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2013/branches/1.6/generator/lib/model/diff/PropelDatabaseDiff.php
+END
+PropelIndexComparator.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2004/branches/1.6/generator/lib/model/diff/PropelIndexComparator.php
+END
+PropelTableComparator.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2004/branches/1.6/generator/lib/model/diff/PropelTableComparator.php
+END
+PropelTableDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1998/branches/1.6/generator/lib/model/diff/PropelTableDiff.php
+END
+PropelColumnComparator.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1948/branches/1.6/generator/lib/model/diff/PropelColumnComparator.php
+END
+PropelColumnDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1998/branches/1.6/generator/lib/model/diff/PropelColumnDiff.php
+END

@@ -1,53 +1,53 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/!svn/ver/2190/branches/1.5/runtime/lib/adapter
+/!svn/ver/2228/branches/1.6/runtime/lib/adapter
 END
 DBMySQL.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/!svn/ver/1612/branches/1.5/runtime/lib/adapter/DBMySQL.php
+/!svn/ver/2090/branches/1.6/runtime/lib/adapter/DBMySQL.php
 END
 DBOracle.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/2026/branches/1.5/runtime/lib/adapter/DBOracle.php
+/!svn/ver/2026/branches/1.6/runtime/lib/adapter/DBOracle.php
 END
 DBPostgres.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/1909/branches/1.5/runtime/lib/adapter/DBPostgres.php
+/!svn/ver/2090/branches/1.6/runtime/lib/adapter/DBPostgres.php
 END
 DBSQLSRV.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/2108/branches/1.5/runtime/lib/adapter/DBSQLSRV.php
+/!svn/ver/2108/branches/1.6/runtime/lib/adapter/DBSQLSRV.php
 END
 DBMSSQL.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/!svn/ver/2190/branches/1.5/runtime/lib/adapter/DBMSSQL.php
+/!svn/ver/2190/branches/1.6/runtime/lib/adapter/DBMSSQL.php
 END
 DBNone.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/!svn/ver/1612/branches/1.5/runtime/lib/adapter/DBNone.php
+/!svn/ver/2168/branches/1.6/runtime/lib/adapter/DBNone.php
 END
 DBAdapter.php
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/!svn/ver/2023/branches/1.5/runtime/lib/adapter/DBAdapter.php
+/!svn/ver/2228/branches/1.6/runtime/lib/adapter/DBAdapter.php
 END
 DBSQLite.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/1612/branches/1.5/runtime/lib/adapter/DBSQLite.php
+/!svn/ver/1814/branches/1.6/runtime/lib/adapter/DBSQLite.php
 END

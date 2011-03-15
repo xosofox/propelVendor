@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/2198/branches/1.6/generator/lib/behavior/i18n/templates
+END
+objectTranslatedColumnSetter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectTranslatedColumnSetter.php
+END
+objectPostDelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2133/branches/1.6/generator/lib/behavior/i18n/templates/objectPostDelete.php
+END
+objectGetLocaleAlias.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectGetLocaleAlias.php
+END
+objectSetTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectSetTranslation.php
+END
+objectSetLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectSetLocale.php
+END
+objectRemoveTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2132/branches/1.6/generator/lib/behavior/i18n/templates/objectRemoveTranslation.php
+END
+queryUseI18nQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/queryUseI18nQuery.php
+END
+objectSetLocaleAlias.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectSetLocaleAlias.php
+END
+objectAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectAttributes.php
+END
+queryJoinWithI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2198/branches/1.6/generator/lib/behavior/i18n/templates/queryJoinWithI18n.php
+END
+objectTranslatedColumnGetter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectTranslatedColumnGetter.php
+END
+queryJoinI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/queryJoinI18n.php
+END
+objectGetTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2132/branches/1.6/generator/lib/behavior/i18n/templates/objectGetTranslation.php
+END
+objectGetLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectGetLocale.php
+END
+objectGetCurrentTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2128/branches/1.6/generator/lib/behavior/i18n/templates/objectGetCurrentTranslation.php
+END

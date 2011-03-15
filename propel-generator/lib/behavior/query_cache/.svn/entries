@@ -2,13 +2,13 @@
 
 dir
 2232
-http://svn.propelorm.org/branches/1.5/generator/lib/behavior/query_cache
+http://svn.propelorm.org/branches/1.6/generator/lib/behavior/query_cache
 http://svn.propelorm.org
 
 
 
-2010-12-02T22:46:27.669099Z
-2067
+2011-03-15T13:02:50.283303Z
+2232
 francois
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2011-03-15T23:45:02.000000Z
-a0d0f019c7bc28749e899ca465e2597c
-2010-12-02T22:46:27.669099Z
-2067
+2011-03-15T23:45:16.000000Z
+ce3748e2458383bceb50a399b6916127
+2011-03-15T13:02:50.283303Z
+2232
 francois
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-6233
+6264
 
