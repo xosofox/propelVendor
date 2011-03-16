@@ -1,80 +1,0 @@
-10
-
-dir
-2232
-http://svn.propelorm.org/branches/1.6/generator/lib/builder/sql
-http://svn.propelorm.org
-
-
-
-2011-01-10T17:44:54.655922Z
-2135
-KRavEN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4126deef-30f4-0310-a2a2-883dd235dc3b
-
-mssql
-dir
-
-sqlite
-dir
-
-mysql
-dir
-
-oracle
-dir
-
-pgsql
-dir
-
-DataSQLBuilder.php
-file
-
-
-
-
-2011-03-16T00:07:22.000000Z
-9fe3ad7c5e3772855f342c4920651478
-2010-03-16T22:56:21.953825Z
-1612
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5704
-
-sqlsrv
-dir
-

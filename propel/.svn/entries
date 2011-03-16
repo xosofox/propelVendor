@@ -1,101 +1,0 @@
-10
-
-dir
-2232
-http://svn.propelorm.org/branches/1.6/runtime/lib
-http://svn.propelorm.org
-
-
-
-2011-03-14T09:27:37.305307Z
-2228
-francois
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4126deef-30f4-0310-a2a2-883dd235dc3b
-
-connection
-dir
-
-logger
-dir
-
-adapter
-dir
-
-formatter
-dir
-
-config
-dir
-
-query
-dir
-
-validator
-dir
-
-Propel.php
-file
-
-
-
-
-2011-03-16T00:07:21.000000Z
-7098b749db933a3c9c6265a316ced6c3
-2011-03-11T21:10:34.344654Z
-2224
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29689
-
-collection
-dir
-
-om
-dir
-
-parser
-dir
-
-map
-dir
-
-util
-dir
-
-exception
-dir
-
